@@ -12,4 +12,4 @@ name: the name of the exported wav. file
 
 amp: music amplitude (standard: 1)
 
-leng: length of beat (standard: 1)
+leng: length of the beats (standard: 1)
