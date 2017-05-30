@@ -4,12 +4,12 @@
 ### Usage
 * Command line: getmusic(score,beat,name,amp,leng) 
 
-score: vector representation of numbered musical notations
+-- score: vector representation of numbered musical notations
 
-beat: vector representation of corresponding beats
+-- beat: vector representation of corresponding beats
 
-name: the name of the exported wav. file
+-- name: the name of the exported wav. file
 
-amp: music amplitude (standard: 1)
+-- amp: music amplitude (standard: 1)
 
-leng: length of the beats (standard: 1)
+-- leng: length of the beats (standard: 1)
